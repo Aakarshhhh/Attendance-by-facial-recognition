@@ -1,2 +1,2 @@
 # Attendance-by-facial-recognition
-A mini project to make attendance using OpenCV module in Python3
+A mini project to make attendance using OpenCV and haarcascade module in Python3
